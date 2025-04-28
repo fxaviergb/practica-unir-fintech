@@ -17,3 +17,7 @@ python3 main.py <filename> <dup>
 Para ejecutar el script con un archivo llamado `lista_prueba.txt` y eliminar palabras duplicadas:
 
 python3 main.py lista_prueba.txt yes
+
+## Pull Request
+
+- El usuario **fgarnica** realiza una actualización al archivo README el 2025/04/22
